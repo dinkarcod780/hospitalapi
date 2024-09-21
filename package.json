@@ -1,0 +1,20 @@
+{
+  "name": "hospitalapi",
+  "version": "1.0.0",
+  "description": "hospital api",
+  "main": "src/app.js",
+  "scripts": {
+   "dev":"nodemon src/index.js"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "dinkar",
+  "license": "ISC",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.5"
+  }
+}
